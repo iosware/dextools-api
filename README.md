@@ -3,8 +3,8 @@
     <p align="center">
         <a href="https://github.com/stiacs/dextools-api"><img alt="Total Hits" src="https://hits.dwyl.com/stiacs/dextools-api.svg?style=flat-square"></a>
         <a href="https://github.com/stiacs/dextools-api"><img alt="Downloads" src="https://img.shields.io/npm/dt/dextools-api"></a>
-        <a href="https://www.npmjs.com/package/dextools-api"><img alt="Version" src="https://img.shields.io/npm/v/dextools-api?logo=npm&style=flat-square"></a>
-        <a href="https://github.com/pashikua/dextools-api"><img alt="License" src="https://img.shields.io/github/license/stiacs/dextools-api"></a>
+        <a href="https://www.npmjs.com/package/@stiacs/dextools-api"><img alt="Version" src="https://img.shields.io/npm/v/dextools-api?logo=npm&style=flat-square"></a>
+        <a href="https://github.com/stiacs/dextools-api"><img alt="License" src="https://img.shields.io/github/license/stiacs/dextools-api"></a>
     </p>
 </p>
 
