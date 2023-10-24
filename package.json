@@ -1,0 +1,27 @@
+{
+  "name": "@stiacs/dextools-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js library for DEXTools's API with network selection, promise operations and optional requests logging.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiacs/dextools-api.git"
+  },
+  "keywords": [
+    "dextools",
+    "dextools-api",
+    "node-dextools",
+    "node-dextools-api",
+    "ethereum-api"
+  ],
+  "author": "Stiacs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stiacs/dextools-api/issues"
+  },
+  "homepage": "https://github.com/stiacs/dextools-api#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "axios-logger": "^2.7.0"
+  }
+}
