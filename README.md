@@ -5,6 +5,7 @@
         <a href="https://github.com/stiacs/dextools-api"><img alt="Downloads" src="https://img.shields.io/npm/dt/@stiacs/dextools-api"></a>
         <a href="https://www.npmjs.com/package/@stiacs/dextools-api"><img alt="Version" src="https://img.shields.io/npm/v/@stiacs/dextools-api?logo=npm&style=flat-square"></a>
         <a href="https://github.com/stiacs/dextools-api"><img alt="License" src="https://img.shields.io/github/license/stiacs/dextools-api"></a>
+        <a href="https://www.buymeacoffee.com/stiacs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="20"/></a>
     </p>
 </p>
 
@@ -68,5 +69,4 @@ Feel free to contact me for any project-related queries or collaborations. I'd b
 
 [<img align="left" alt="Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/stiacs)
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/stiacs"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=stiacs&button_colour=0b1747&font_colour=ffffff&font_family=Arial&outline_colour=ffffff&coffee_colour=FFDD00" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/stiacs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="20"/></a></p>
