@@ -1,7 +1,7 @@
 {
   "name": "@stiacs/dextools-api",
-  "version": "1.0.0",
-  "description": "A simple Node.js library for DEXTools's API with network selection, promise operations and optional requests logging.",
+  "version": "2.0.0",
+  "description": "A simple Node.js library for DEXTools's API V2 with network selection, promise operations and optional requests logging.",
   "main": "index.js",
   "repository": {
     "type": "git",
