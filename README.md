@@ -10,7 +10,7 @@
 </p>
 
 ------
-**DEXTools-api** is a nodejs module for DEXTools.io API. This library provides support for many blockchains with promise support for smooth integration into your NodeJs project.
+**DEXTools-api** is a nodejs module for DEXTools.io API v1 (use version 1.x) and v2 (use version 2.x). This library provides support for many blockchains with promise support for smooth integration into your NodeJs project.
 
 🌟 Key Features:
 - ⚡️ High Performance: Enjoy super-fast access to blockchain data.
@@ -37,11 +37,11 @@ const apiClient = new DEXToolsApi(apiKey);
 
 // Get information about the DEXT/WETH pair using its address
 try {
-    const pairInformation = await apiClient.getPair('0xa43fe16908251ee70ef74718545e4fe6c5ccec9f');
-    console.log('PEPE/WETH pair Information:\n');
-    console.log(JSON.stringify(pairInformation, null, 2));
+    const poolInformation = await apiClient.getPool('ether', '0xa43fe16908251ee70ef74718545e4fe6c5ccec9f');
+    console.log('PEPE/WETH pool information:\n');
+    console.log(JSON.stringify(poolInformation, null, 2));
 } catch (error) {
-    console.error(`Error fetching pair information: ${error}`);
+    console.error(`Error fetching pool information: ${error}`);
 }
 
 // Chain list to be used with DEXToolsApi
