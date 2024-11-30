@@ -9,6 +9,10 @@
     </p>
 </p>
 
+# ⚠️ **WARNING: DEXTOOLS RELEASED API V2**
+
+> **This repo is no longer up-to-date and contains information about outdated API v1.**
+
 ------
 **DEXTools-api** is a nodejs module for DEXTools.io API v1 (use version 1.x) and v2 (use version 2.x). This library provides support for many blockchains with promise support for smooth integration into your NodeJs project.
 
