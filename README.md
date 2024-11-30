@@ -71,6 +71,4 @@ This project is licensed under the **[MIT license](https://opensource.org/licens
 
 Feel free to contact me for any project-related queries or collaborations. I'd be happy to discuss ideas!
 
-[<img align="left" alt="Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/stiacs)
-
 <p align="center"><a href="https://www.buymeacoffee.com/stiacs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="20"/></a></p>
